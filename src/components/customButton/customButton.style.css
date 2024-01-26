@@ -1,0 +1,13 @@
+button {
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #262834;
+  color: #ffffff;
+  font-weight: 500;
+}
+button:focus,
+button:active {
+  outline: none;
+}
